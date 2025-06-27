@@ -1,6 +1,6 @@
 export const siteConfig = {
-  name: "寰宇国际商会",
-  description: "寰宇国际商会官方网站",
+  name: "n plus capital limited",
+  description: "N PLUS Capital Limited官方网站",
   languages: [
     {
       code: "en",
