@@ -1,0 +1,507 @@
+{
+  "site": {
+    "name": "N PLUS Capital Limited",
+    "description": "N PLUS Capital Limited"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "charity": "Charity",
+    "cooperation": "Cooperation",
+    "contact": "Contact",
+    "exchanges": "Exchanges"
+  },
+  "home": {
+    "title": "Welcome to Dragon Glory International N PLUS Capital Limited",
+    "description": "We are dedicated to charitable causes and creating business value",
+    "history": {
+      "title": "Chamber Development",
+      "description": "Explore our years of development and witness how we have built a solid foundation for international business cooperation. Through continuous innovation and progress, we continue to promote business development and collaboration."
+    },
+    "charity": {
+      "title": "Charitable Causes",
+      "description": "Learn about our commitment to social responsibility and the various charitable programs we support globally. We are dedicated to giving back to society through public welfare activities and promoting harmonious social development."
+    },
+    "international": {
+      "title": "International Impact",
+      "description": "Explore our network of international partnerships and witness how we drive global business development. We establish long-term stable partnerships with business partners worldwide."
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "introduction": {
+      "title": "Chamber Overview",
+      "history": "Chamber History",
+      "organization": "Organizational Structure",
+      "message": "Chairman's Message"
+    },
+    "culture": {
+      "title": "Chamber Culture",
+      "values": "Core Values",
+      "vision": "Chamber Vision",
+      "mission": "Chamber Mission"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Dragon Glory International N PLUS Capital Limited. All Rights Reserved."
+  },
+  "common": {
+    "readMore": "Learn More",
+    "loading": "Loading",
+    "error": "Error Occurred",
+    "success": "Success",
+    "back": "Back",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "viewAll": "View All",
+    "more": "More"
+  },
+  "history": {
+    "title": "Chamber History",
+    "breadcrumb": {
+      "home": "Home",
+      "about": "About Us",
+      "history": "Chamber History"
+    },
+    "initialParagraph": "Since its establishment in 2013, Dragon Glory International N PLUS Capital Limited has upheld the core values of 'Charity, Responsibility, and Cooperation,' dedicated to promoting charitable causes globally. By consolidating multinational resources and building multi-party platforms, the Chamber actively supports social responsibility projects and charitable initiatives, with particular emphasis on the preliminary promotion and operation of public welfare programs, ensuring the successful implementation and long-term impact of each charitable project.",
+    "mission": {
+      "title": "Our Original Aspiration and Mission",
+      "content": "At its founding, Dragon Glory's founding team deeply recognized numerous pressing public welfare issues globally, particularly in areas such as care for vulnerable groups, post-disaster reconstruction, educational support, and health protection. The Chamber's mission is to unite forces from all sectors to achieve these charitable goals and inspire more enterprises and individuals to join in philanthropic endeavors."
+    },
+    "newChapter": {
+      "title": "Writing New Chapters Every Day",
+      "mainContent": "Every partnership, every act of kindness, and every successful project marks a new starting point in Dragon Glory International N PLUS Capital Limited's history. Though our journey spans just over a decade since 2013, we have consistently pursued our mission of 'balancing charity and cooperation,' creating countless memorable stories through unwavering dedication and practical spirit.",
+      "paragraphs": [
+        "From business cooperation to charitable causes, whether helping enterprises achieve development goals or bringing care and support to society's vulnerable groups, each of our actions infuses warmth and strength into this world. And this is just the beginning.",
+        "If time were to flow backward, we would choose the same path, taking steady steps to where we are today. Dragon Glory's story is written collectively through countless helping hands, unity, and collaboration. From the wisdom and dedication of member enterprises to the tireless efforts of volunteers and the strong support of global partners, everything continues to drive us forward, changing lives and improving communities.",
+        "From deep involvement in global business cooperation to active engagement in charitable causes, Dragon Glory's footprint now spans the globe. Whether helping enterprises explore new markets and promote new projects, or contributing to community reconstruction after disasters, our actions are impacting over 50 countries and regions across different cultures and territories."
+      ]
+    },
+    "future": {
+      "title": "Future Outlook",
+      "content": "Looking ahead, Dragon Glory International N PLUS Capital Limited will continue to stay true to its original mission, advancing with a broader vision and more impactful actions alongside our members and partners, contributing to global business prosperity and social progress."
+    },
+    "innovation": {
+      "title": "Innovation and Development",
+      "support": {
+        "title": "Innovation Support",
+        "content": "Promoting member enterprises' innovative upgrades through project incubation, technical cooperation, and investment services"
+      },
+      "ecosystem": {
+        "title": "Industry Ecosystem Building",
+        "content": "Creating a global industry ecosystem to facilitate deep integration among enterprises across various sectors"
+      },
+      "vision": "Whether supporting emerging enterprises in reaching the international stage or helping mature businesses explore new territories, Dragon Glory International N PLUS Capital Limited will always uphold the principle of win-win cooperation, advancing global business collaboration to new heights through professional and efficient services."
+    },
+    "slogan": "Join Dragon Glory, Achieve Win-Win Cooperation, Create the Future Together!",
+    "conclusion": "The Chamber aims to become a driving force in global philanthropy, an expander of influence, and a bridge for multi-party cooperation, continuing to contribute to building a better society.",
+    "dateFormat": {
+      "year": "Year",
+      "month": "Month",
+      "day": "Day"
+    },
+    "meta": {
+      "title": "Dragon Glory International N PLUS Capital Limited - Chamber History",
+      "description": "Learn about Dragon Glory International N PLUS Capital Limited's development journey, mission, vision, and key milestones. Since 2013, we have been committed to promoting global charitable causes.",
+      "keywords": "Dragon Glory International N PLUS Capital Limited,Chamber History,Charitable Causes,International Cooperation,Social Responsibility"
+    }
+  },
+  "charity": {
+    "title": "Charitable Activities",
+    "subtitle": "Spreading Hope Through Love, Creating Change Through Action",
+    "tabs": {
+      "all": "All Activities",
+      "ongoing": "Ongoing",
+      "completed": "Completed"
+    },
+    "status": {
+      "upcoming": "Upcoming",
+      "ongoing": "In Progress",
+      "completed": "Completed"
+    },
+    "readMore": "Read More",
+    "activities": [
+      {
+        "id": 1,
+        "title": "Announcement of Global Charity Activities",
+        "status": "ongoing",
+        "date": "Effective for a long time",
+        "location": "Global",
+        "thumbnail": "/images/charity/bright.png",
+        "description": "Longyao International N PLUS Capital Limited upholds its infinite enthusiasm for global charity and always unswervingly fulfills its social responsibilities. We have not only actively carried out various public welfare activities in the past, but also focus on the future and continue to carefully prepare many far-reaching public welfare activities.",
+        "type": "health",
+        "link": "/bright-future"
+      },
+      {
+        "id": 2,
+        "title": "Fukushima Earthquake Relief Operation",
+        "status": "completed",
+        "date": "2023-present",
+        "location": "Fukushima, Japan",
+        "thumbnail": "/images/charity/fukushima.png",
+        "description": "Dragon Glory International N PLUS Capital Limited actively responds to the call, collaborating with multiple charitable organizations to contribute to post-disaster relief in the Fukushima region, including emergency relief operations, online fundraising, and nursing home assistance.",
+        "type": "disaster",
+        "link": "/fukushima-aid"
+      },
+      {
+        "id": 3,
+        "title": "Together Against Cancer Initiative",
+        "status": "ongoing",
+        "date": "2018-present",
+        "location": "Singapore",
+        "thumbnail": "/images/charity/cancer.png",
+        "description": "Partnering with the Singapore Cancer Society to provide comprehensive support for cancer patients and their families, including financial assistance, rehabilitation care, and home medical care services.",
+        "type": "health",
+        "link": "/cancer-support"
+      },
+      {
+        "id": 4,
+        "title": "Reject War, Create Peace",
+        "status": "ongoing",
+        "date": "2023-present",
+        "location": "Global",
+        "thumbnail": "/images/charity/peace.png",
+        "description": "Promoting world peace through international cooperation, cultural exchange, and charitable endeavors, including refugee assistance, peace education, and international dialogue programs.",
+        "type": "peace",
+        "link": "/peace-initiative"
+      },
+      {
+        "id": 5,
+        "title": "Children Care Program",
+        "status": "ongoing",
+        "date": "2022-present",
+        "location": "Global",
+        "thumbnail": "/images/charity/children.png",
+        "description": "Providing comprehensive care and support for vulnerable children through four major initiatives: educational support, health care, psychological care, and safety protection.",
+        "type": "education",
+        "link": "/children-care"
+      },
+      {
+        "id": 6,
+        "title": "Typhoon Haima Relief Operation",
+        "status": "completed",
+        "date": "2016",
+        "location": "Hong Kong",
+        "thumbnail": "/images/charity/typhoon.png",
+        "description": "Implementing a series of aid measures after Typhoon Haima, including emergency supplies distribution, community cleanup and repair, psychological and medical assistance, and long-term reconstruction plans.",
+        "type": "disaster",
+        "link": "/typhoon-haima"
+      }
+    ]
+  },
+  "coreValues": {
+    "title": "Core Values",
+    "integrity": {
+      "title": "Integrity",
+      "intro": "Integrity is the foundation of Dragon Glory International N PLUS Capital Limited, illuminating the path of international business like brilliant stars.",
+      "content": {
+        "internal": {
+          "title": "Internal Integrity",
+          "text": "Within the Chamber, integrity serves as the bond that builds deep relationships among members. Each member adheres to sincerity as their principle, honestly presenting their enterprise's status, including financial conditions, business capabilities, and product quality. In information exchange, whether it's market dynamics, industry trends, or cooperation opportunities, all communicated content is truthful and reliable, avoiding misunderstandings and losses caused by false information."
+        },
+        "external": {
+          "title": "External Cooperation",
+          "text": "For external cooperation, integrity is key to winning international partners' trust. Whether in international business negotiations, contract signing, or agreement fulfillment, Chamber members steadfastly maintain integrity principles. At the negotiation table, they neither exaggerate nor conceal important facts, ensuring decisions are made based on truthful information. In contract execution, they strictly follow agreed terms, delivering goods, providing services, and making payments on time, upholding the spirit of international business contracts. Chamber members maintain reverence for international business rules and national laws and regulations, operating in compliance with laws and eliminating all unfair competition practices, establishing Dragon Glory's excellent reputation in the global business sphere through integrity."
+        }
+      }
+    },
+    "cooperation": {
+      "title": "Cooperation",
+      "intro": "Cooperation is the core force driving Dragon Glory International N PLUS Capital Limited's prosperous development, weaving together the tapestry of international business like tightly interwoven threads.",
+      "content": {
+        "platform": {
+          "title": "Cooperation Platform",
+          "text": "The Chamber actively builds comprehensive cooperation platforms, transcending national and industry boundaries. Online, through advanced digital platforms, we gather global business information, facilitating member enterprises to post requirements, showcase advantages, and precisely match potential partners. Offline, we organize international business summits, industry exhibitions, and cooperation forums, creating face-to-face communication opportunities for member enterprises. These activities serve as international business feasts, allowing enterprises from different countries and regions to find partners that match their development needs."
+        },
+        "projects": {
+          "title": "International Cooperation",
+          "text": "In international cooperation projects, the Chamber emphasizes diverse integration and collaborative progress. Member enterprises leverage their respective advantages in resources, technology, and markets to form tight cooperation alliances. Large enterprises provide solid support through their strong financial backing and extensive market networks, while SMEs inject new vitality with their flexible innovation capabilities and professional expertise. All parties maintain mutual respect and support during cooperation, establishing efficient communication and coordination mechanisms."
+        }
+      }
+    },
+    "innovation": {
+      "title": "Innovation",
+      "intro": "Innovation is the sail that propels Dragon Glory International N PLUS Capital Limited forward through international business waves, guiding member enterprises to success.",
+      "content": {
+        "business": {
+          "title": "Business Model Innovation",
+          "text": "In business model innovation, the Chamber encourages member enterprises to break through traditional business thinking patterns. Facing rapid global market changes, member enterprises actively explore new ways of value creation, such as adopting sharing economy models to achieve resource sharing in logistics and office spaces, reducing operational costs; and utilizing blockchain technology to build more secure and transparent supply chain financial systems, improving capital flow efficiency."
+        },
+        "technology": {
+          "title": "Technological Innovation",
+          "text": "Technological innovation is a crucial engine driving member enterprises' development. The Chamber actively creates an innovative atmosphere, supporting member enterprises in increasing R&D investment and establishing industry-academia-research cooperation with top global research institutions and universities. Enterprises continuously introduce new technologies and processes, innovating in product development to enhance product performance and quality."
+        }
+      }
+    },
+    "charity": {
+      "title": "Charitable Social Contribution",
+      "intro": "Charitable social contribution shines as the humanitarian aspect of Dragon Glory International N PLUS Capital Limited's values, spreading warmth like sunshine to every corner of the world.",
+      "content": {
+        "education": {
+          "title": "Educational Support",
+          "text": "In education, the Chamber encourages member enterprises to establish scholarships and donate educational facilities, supporting quality education for children in impoverished areas. Whether building schools in remote African regions or providing online educational resources to Southeast Asian students, member enterprises' efforts inject new vitality into local education."
+        },
+        "healthcare": {
+          "title": "Healthcare",
+          "text": "In healthcare, member enterprises actively participate in international medical aid projects. During public health emergencies, the Chamber organizes member enterprises to donate medical supplies and dispatch medical teams to affected countries and regions, contributing to epidemic control and protecting local people's health."
+        },
+        "environment": {
+          "title": "Environmental Protection",
+          "text": "In environmental protection, the Chamber guides member enterprises to practice green development concepts and actively participate in global environmental protection actions. Member enterprises contribute to addressing global climate change and protecting the ecological environment through investing in environmental projects, promoting clean energy technologies, and supporting sustainable development initiatives."
+        }
+      }
+    }
+  },
+  "mission": {
+    "meta": {
+      "title": "Chamber Mission - Dragon Glory International N PLUS Capital Limited",
+      "description": "Learn about Dragon Glory International N PLUS Capital Limited's mission and vision. We are committed to promoting international business cooperation and charitable causes.",
+      "keywords": "Chamber Mission,International Cooperation,Charitable Causes,Dragon Glory International N PLUS Capital Limited"
+    },
+    "title": "Chamber Mission",
+    "sections": {
+      "fundamentalPurpose": {
+        "title": "Fundamental Purpose",
+        "content": "Dragon Glory International N PLUS Capital Limited's fundamental purpose is to promote international business cooperation, adhering to principles of openness, inclusiveness, fairness, and justice, dedicated to building bridges for global business communication and collaboration. We actively bring together business elites, enterprises, and organizations from around the world, breaking down geographical and cultural barriers to facilitate the flow and sharing of international business information."
+      },
+      "businessCooperation": {
+        "title": "Business Cooperation",
+        "content": "We firmly believe that strengthening international business cooperation can integrate global resources and create more development opportunities for member enterprises. Whether exploring emerging markets or deepening presence in mature markets, the Chamber will spare no effort in providing comprehensive support to its members. Meanwhile, we emphasize maintaining business order, advocating honest operations, and ensuring international business cooperation develops in a healthy and sustainable environment."
+      },
+      "charitableCause": {
+        "title": "Charitable Cause",
+        "content": "Furthermore, the Chamber incorporates charity into its development philosophy. We actively encourage member enterprises to engage in charitable causes and focus on vulnerable groups worldwide, striving to bring warmth to society while pursuing business development. We believe that business success should not be limited to economic gains but should also shoulder social responsibilities. Through organizing charitable activities and encouraging member enterprises to donate resources, funds, and technology, we provide education, healthcare, and development opportunities to impoverished regions, helping address global development imbalances and making business forces a positive factor in promoting social equity and progress."
+      }
+    }
+  },
+  "vision": {
+    "title": "Chamber Vision",
+    "sections": {
+      "businessVision": {
+        "content": "Dragon Glory International N PLUS Capital Limited envisions becoming a distinguished organization leading international cooperation and achieving mutual development in the global business sphere. We aspire to build an international business ecosystem where enterprises from different countries and regions can find like-minded partners, jointly explore new business opportunities, and collectively address global business challenges."
+      },
+      "charitableVision": {
+        "content": "Meanwhile, we consider charity as a cornerstone of the Chamber's vision. We dream of creating a business world filled with compassion and responsibility, where the Chamber actively guides member enterprises to integrate charitable actions into their daily operations and development strategies. We hope to see member enterprises not only achieving business success together but also advancing hand in hand on the global charitable stage. Through the Chamber's influence and coordination, we aim to gather resources from all parties to contribute significantly to improving living conditions in impoverished areas, promoting educational equity, protecting the environment, and other charitable causes. We strive to make business and charity complementary, making the world better through our actions and establishing an unbreakable link between business success and social welfare."
+      }
+    }
+  },
+  "charityDetail": {
+    "children-care": {
+      "title": "Children Care Program",
+      "date": "2022-Present",
+      "location": "Global",
+      "theme": "Nurturing Childhood with Love",
+      "image": "/images/charity/children.png",
+      "content": "<h1>Dragon Glory International N PLUS Capital Limited: Nurturing Childhood with Love</h1><p>Children are society's future and the group most in need of attention and protection. Since its establishment, Dragon Glory International N PLUS Capital Limited has been dedicated to childcare, providing support to vulnerable children through multi-dimensional charity projects, helping them grow healthily and embrace a brighter future.</p><h2>Children Care Charity Programs</h2><h3>(1) Educational Support Program: Knowledge Changes Destiny</h3><p>Objective: Help children from impoverished families gain equal educational opportunities.</p><p>Actions:</p><ul><li>Donate books, stationery, and learning equipment;</li><li>Establish scholarships to support children's basic education.</li></ul><p>DGICC's Contribution:</p><p>The Chamber initiates special donation activities, builds smart learning platforms for children in remote areas, and dispatches volunteers for extracurricular tutoring and knowledge dissemination.</p><h3>(2) Health Care Program: Protecting Children's Health</h3><p>Objective: Ensure every child has access to basic healthcare and nutritional support.</p><p>Actions:</p><ul><li>Conduct vaccination and health check activities;</li><li>Distribute health food packages to malnourished children.</li></ul><p>DGICC's Contribution:</p><p>The Chamber collaborates with medical teams to provide free medical screening for vulnerable children, donates medical supplies, and pays special attention to children with chronic illnesses and special needs.</p><h3>(3) Psychological Care Program: Safeguarding Children's Mental Well-being</h3><p>Objective: Focus on children's mental health, helping them overcome trauma and stress during growth.</p><p>Actions:</p><ul><li>Establish children's psychological counseling centers, providing professional psychological consultation;</li><li>Help children release emotions and regain confidence through art, music, and play therapy.</li></ul><p>DGICC's Contribution:</p><p>Dragon Glory International N PLUS Capital Limited funds psychological counseling activities, provides long-term psychological care for orphanages and children in disaster areas, and organizes charitable art exhibitions themed around children.</p><h3>(4) Safety Protection Program: Building a Protective Shield for Children</h3><p>Objective: Prevent children from violence, abuse, and exploitation, protecting their basic rights.</p><p>Actions:</p><ul><li>Organize safety education lectures to raise safety awareness among children and their parents;</li><li>Promote the development of child protection policies and regulations.</li></ul><p>DGICC's Contribution:</p><p>The Chamber supports child protection legislation initiatives while providing legal aid and shelter services for exploited children.</p><h2>Call to Action: Illuminate Childhood, Build the Future Together</h2><p>Dragon Glory International N PLUS Capital Limited calls on all sectors of society to join us in creating a world full of love and hope for children:</p><ul><li>Donations: Members' charitable funds will be used for education, health, and psychological support programs;</li><li>Volunteer Services: Join us in charitable activities to change children's destinies through action;</li><li>Resource Support: Provide learning materials, medical equipment, or professional skills to strengthen charitable activities.</li></ul><p class='quote'>\"Every child deserves a beautiful childhood; every contribution is an investment in the future.\"</p><h2>Spreading Hope with Love, Guarding the Future with Heart</h2><p>Dragon Glory International N PLUS Capital Limited always upholds its charitable mission, protecting children's growth and happiness through practical actions. Let us work together to contribute to a better tomorrow for every child!</p>"
+    },
+    "typhoon-haima": {
+      "title": "Typhoon Haima Relief Operation",
+      "date": "2016",
+      "location": "Hong Kong",
+      "theme": "United We Stand, Together We Overcome",
+      "image": "/images/charity/typhoon.png",
+      "content": "<p>After Typhoon Haima struck Hong Kong and neighboring regions in 2016, Dragon Glory International N PLUS Capital Limited members swiftly mobilized, implementing a series of relief measures to aid in disaster area recovery.</p><h2>1. Emergency Supply Distribution</h2><h3>Food and Drinking Water</h3><p>Following the typhoon, some communities experienced power outages affecting water and food supplies. The Chamber quickly established relief points in affected areas, distributing dry food, bottled water, and other essential supplies.</p><h3>Waterproofing Materials</h3><p>To prevent secondary disasters, Chamber members provided tarpaulins, plastic sheets, and other materials to help residents protect damaged houses.</p><h2>2. Community Cleanup and Restoration</h2><h3>Cleanup Operations</h3><p>Chamber members and local organizations helped clear roads blocked by fallen trees and debris, ensuring timely delivery of relief supplies.</p><h3>Housing Repairs</h3><p>Severely damaged houses were prioritized for repairs, helping residents rebuild their homes.</p><h2>3. Psychological and Medical Support</h2><h3>Medical Assistance</h3><p>Mobile clinics provided treatment for injured residents and distributed basic medicines, particularly anti-infection medications and first-aid supplies.</p><h3>Psychological Counseling</h3><p>With post-disaster trauma being common, the Chamber dispatched professional counselors to provide mental health support for affected families and children.</p><h2>4. Long-term Reconstruction Plan</h2><h3>Education Recovery</h3><p>Provided renovation funds for damaged schools, helping students resume normal learning environments as soon as possible.</p><h3>Social Donation Platform</h3><p>Dragon Glory International N PLUS Capital Limited, along with Hong Kong Red Cross and various community charity organizations, established a fundraising platform for long-term support of comprehensive infrastructure recovery.</p><p class='conclusion'>Through the collaboration of Dragon Glory International N PLUS Capital Limited, various charitable organizations, and communities, Hong Kong gradually recovered its vitality after Typhoon Haima, while strengthening its capacity to face future natural disasters.</p>"
+    },
+    "peace-initiative": {
+      "title": "Anti-War Initiative",
+      "date": "Ongoing",
+      "location": "Global",
+      "theme": "Reject War, Create a Peaceful Future Together",
+      "image": "/images/charity/peace.png",
+      "content": "<h1>Dragon Glory International N PLUS Capital Limited: Reject War, Create a Peaceful Future Together</h1><p>The trauma of war not only affects current society but also threatens the growth and development of future generations. In this era of globalization, peace is humanity's most precious asset and the cornerstone of social prosperity and development. Dragon Glory International N PLUS Capital Limited consistently promotes world peace through international cooperation, cultural exchange, and charitable endeavors, contributing to humanity's shared future.</p><h2>The Cost of War: An Urgent Global Call</h2><ul><li><strong>Destruction of Lives and Homes:</strong> War leads to countless deaths and broken families;</li><li><strong>Intensified Poverty and Hunger:</strong> War destroys economic systems, depriving countless people of their livelihoods;</li><li><strong>Deprivation of Education and Future:</strong> War robs countless children of their right to education, forcing them to face pain and fear prematurely;</li><li><strong>Devastating Environmental Impact:</strong> War damages ecosystems, causing long-term harm to the Earth's environment.</li></ul><p class='emphasis'>Rejecting war is not just a choice for the present but a responsibility for humanity's future.</p><h2>DGICC's Peace Initiatives</h2><h3>(1) Promoting International Cooperation: Bridge of Peace</h3><ul><li>Organize multilateral forums and exchange activities to promote dialogue and understanding between nations;</li><li>Support peace agreements and international cooperation projects, providing economic and technical assistance to conflict regions;</li><li>Build cross-cultural platforms to spread peace concepts and enhance friendship among peoples of different nations.</li></ul><h3>(2) Supporting War Victims: Spreading Love</h3><ul><li>Emergency Aid: Provide emergency supplies and humanitarian assistance to war refugees;</li><li>Psychological Support: Offer counseling and rehabilitation services to war trauma victims, especially children;</li><li>Education and Reconstruction: Fund the rebuilding of schools and communities affected by war, helping restore normal life.</li></ul><h3>(3) Advocating Peace Education: Eliminating Conflict at Its Source</h3><ul><li>Cultivating Peace Culture: Spread concepts of peace and tolerance to younger generations through educational programs;</li><li>Peace Ambassador Program: Invite leaders from various fields to join as peace advocates, jointly promoting global peace;</li><li>Charitable Activities: Organize \"Reject War, Embrace Peace\" themed events to raise awareness about war's dangers and peace's importance.</li></ul><h2>Call for Peaceful Action: Your Support is the Beginning of Change</h2><p>Dragon Glory International N PLUS Capital Limited invites all members and society to participate in promoting peace:</p><ul><li>Donations: Provide material and medical support to refugees, children, and families in war zones;</li><li>Volunteer Services: Join our peace projects to personally bring warmth and hope to victims;</li><li>Spread Peace Concepts: Share peace stories through social platforms to help more people understand the importance of peace.</li></ul><h2>Dissolve Hatred with Love, Build the Future with Action</h2><p>War has cost humanity dearly, while peace remains our shared hope and goal. Let us join hands in rejecting war, allowing more people to enjoy lives of safety, respect, and happiness.</p><p>Dragon Glory International N PLUS Capital Limited pledges to continue promoting global peace with firm conviction, making the world better through love and action!</p><p class='quote'>\"Peace begins with us, the future thrives through unity.\"</p>"
+    },
+    "fukushima-aid": {
+      "title": "2023 Fukushima Earthquake Relief",
+      "date": "2023",
+      "location": "Fukushima, Japan",
+      "theme": "Standing with Fukushima Through Challenging Times",
+      "image": "/images/charity/fukushima.png",
+      "content": "<h1>2023 Fukushima Earthquake Disaster Relief</h1><h2>Dragon Glory International N PLUS Capital Limited: Standing with Fukushima Through Challenging Times</h2><p class='intro'>The 2023 Fukushima earthquake caused extensive damage, but in the aftermath, various sectors of society swiftly mobilized to help affected residents rebuild their homes through charitable activities. Dragon Glory International N PLUS Capital Limited actively responded to the call, collaborating with multiple charitable organizations to contribute to Fukushima's post-disaster relief efforts.</p><h2>Post-Disaster Relief Activities and DGICC's Involvement</h2><h3>(1) Emergency Response and Post-Disaster Aid</h3><h4>Emergency Relief Operations:</h4><ul><li>Japan National Disaster Relief Association organized volunteers to provide food, temporary shelter, and medical supplies to disaster victims.</li><li>DGICC actively participated by making donations to support relief operations and dispatching volunteers for supply distribution and shelter management.</li></ul><h4>Online Donation Support:</h4><ul><li>Charitable organizations launched global fundraising campaigns through social media and online platforms.</li><li>DGICC initiated special fundraising activities, calling on members and the public to donate for purchasing relief supplies, repairing infrastructure, and supporting disaster area reconstruction.</li></ul><h3>(2) Nursing Home and Vulnerable Group Assistance</h3><h4>Care for the Elderly and Disabled:</h4><ul><li>Charitable organizations provided specialized medical care and evacuation services for affected nursing homes.</li><li>DGICC collaborated with local medical teams to provide necessary medical supplies and psychological support for the elderly and those with limited mobility.</li></ul><h4>Support for the Homeless:</h4><ul><li>Charitable organizations provided temporary accommodation to ensure basic living needs for displaced disaster victims.</li><li>DGICC donated funds to build more evacuation facilities and provided subsequent resettlement subsidies for affected families.</li></ul><h2>DGICC's Commitment: Contributing to Disaster Area Reconstruction</h2><p>As an international organization dedicated to charity and social responsibility, DGICC has undertaken the following key responsibilities in the Fukushima earthquake relief efforts:</p><ul class='commitment'><li><strong>Large-scale Fundraising:</strong> Initiated special donation campaigns, raising millions in charitable funds to support various emergency needs in the disaster area.</li><li><strong>Material and Personnel Support:</strong> Dispatched volunteer teams to Fukushima to assist with cleanup work while delivering daily necessities and medical supplies.</li><li><strong>Long-term Reconstruction Support:</strong> Committed to providing ongoing funding and resources for rebuilding schools, hospitals, and community infrastructure.</li></ul><h2>Call to Action: Igniting Hope for Fukushima Together</h2><p>We call on all Chamber members and society to continue following Fukushima's post-disaster recovery work and join our efforts to bring warmth and hope to the victims.</p><p class='highlight'>Let us work together to contribute wisdom and strength to Fukushima's reconstruction, helping disaster-affected communities overcome difficulties and rebuild their beautiful homes!</p><p class='conclusion'>Dragon Glory International N PLUS Capital Limited will continue to uphold the spirit of charity and public welfare, demonstrating love and responsibility through concrete actions.</p>"
+    },
+    "cancer-support": {
+      "title": "Cancer Support Initiative",
+      "date": "2018-Present",
+      "location": "Singapore",
+      "theme": "Fighting Cancer Together, Creating Hope for Tomorrow",
+      "image": "/images/charity/cancer.png",
+      "content": "<h1>Dragon Glory International N PLUS Capital Limited Partners with Singapore Cancer Society to Fight Cancer</h1><div class='mission-statement'><p>Dragon Glory International N PLUS Capital Limited has always been committed to promoting charitable causes and fulfilling social responsibilities. Through deep collaboration with the Singapore Cancer Society, DGICC actively participates in and supports various charitable activities. We call on all members and friends from all sectors of society to take action together, illuminating hope for cancer patients and their families.</p></div><div class='partner-intro'><h2>About Singapore Cancer Society</h2><p>The Singapore Cancer Society is a self-sustaining volunteer welfare organization dedicated to cancer prevention and control. Through education, research, and patient care services, the Society continuously improves community health and quality of life, becoming a leader in cancer prevention and control since its establishment.</p></div><div class='service-scope'><h2>Scope of Services</h2><p class='scope-intro'>The Chamber and Society's service scope has expanded to include:</p><h3>Supporting Cancer Patients in Need and Their Families</h3><ul class='services'><li>Providing financial assistance to help alleviate family burdens;</li><li>Supporting recovering patients in returning to normal life;</li><li>Providing rehabilitation care for patients undergoing treatment;</li><li>Offering home medical care services for terminal patients.</li></ul></div><div class='commitment'><p>Dragon Glory International N PLUS Capital Limited not only supports fundraising activities but is also committed to promoting social care through practical actions, helping more cancer patients receive the support and assistance they need.</p></div><p class='call-to-action'>Let's join hands to contribute love and care for cancer patients and their families, making a difference in more lives through your kindness!</p>"
+    },
+    "bright-future": {
+      "title": "Announcement of Global Charity Activities",
+      "date": "Effective for a long time",
+      "location": "Global",
+      "theme": "Build a better future together",
+      "image": "/images/charity/bright.png",
+      "content": "<div class='event-header'><h1>Notice of Longyao International N PLUS Capital Limited’s Global Charity Activities</h1></div><p>From bustling cities to remote villages, from the top of the mountains to the shores of the ocean, the world on earth Every inch of land carries our attention. Whether it is areas hit hard by natural disasters, communities shrouded in the shadow of poverty and disease, or places facing difficulties in education and cultural inheritance, they will all become the stage for our charitable actions. We cross national borders and break through geographical restrictions, just to deliver warmth and assistance to every soul in need. </p><p>We firmly believe that every small act of kindness is a cornerstone of building a better future. Whether it is sending school supplies and educational resources to children in poverty-stricken areas, helping them open the door to knowledge and chase the stars of their dreams; or providing food, medical assistance and temporary shelter to war-torn refugees, giving them hope and dignity for survival. ; Or they are fighting to protect rare natural resources and ancient cultural heritage, and strive to preserve the treasures of the earth and the memory of human civilization for future generations. Everything Longyao International N PLUS Capital Limited does is to gather the love and strength of all mankind and jointly outline a future picture full of harmony, equality, prosperity and hope. </p><p>Here, we sincerely extend an invitation to all walks of life around the world, whether you are a passionate and helpful individual volunteer, a social organization with rich resources and professional experience, or a person with strong strength and social responsibility. Corporate partners, if you have a passion for public welfare, have relevant needs or intention to cooperate, please feel free to contact us at any time. Every piece of your support will turn into a trickle and gather into the majestic power of charity; every piece of your participation will become a bright star that lights up hope. Join us to gather the strength of all parties and deliver love and warmth. Let’s work hard together to build a better future, participate in charity events, and create a harmonious and beautiful world. </p>"
+    }
+  },
+  "cooperation": {
+    "title": "International Cooperation",
+    "subtitle": "Global Business Partners",
+    "partners": {
+      "monster": {
+        "name": "Monster Group",
+        "nameEn": "Monster Group",
+        "country": "South Korea",
+        "industry": "Sports Event Promotion",
+        "period": "2015~2016",
+        "description": "Founded in 2006, Monster Group is a renowned international sports brand promotion agency in South Korea.",
+        "beforeStatus": "Before cooperating with the N PLUS Capital Limited, Mojin Group faced many difficulties in expanding its business, like a ship sailing in rough business seas. In the Korean domestic market, competition in the field of sports event promotion has become increasingly fierce, and new competitors are springing up like mushrooms after a rain, which has put Mojin Group's original business growth into a bottleneck. Although it has accumulated a certain degree of popularity in the industry, its advantages have gradually been weakened in this fiercely competitive environment. In the international market, it is even more difficult for Mojin Group to explore new regions and seek cooperation in new events. The communication channels with partners are not smooth enough and there are obstacles in information transmission, which makes some cooperation projects difficult and slow in progress. This series of problems has made it difficult for Mojin Group to increase its brand influence in emerging markets and further expand its market share. The expansion of its business scale has also been severely restricted, casting a shadow over the company's development prospects.",
+        "afterStatus": "After cooperating with Longyao International N PLUS Capital Limited in 2015-2016, Mojin Group ushered in a turning point in its development. With its professional market insight and rich promotion experience, Longyao International N PLUS Capital Limited has customized a series of active and effective promotion strategies for Mojin Group. For the local Korean market, Longyao International N PLUS Capital Limited assisted Mojin Group in deeply analyzing the characteristics and needs of the sports event audience, just like a precise radar scanning target, not missing any detail. On this basis, the close ties and in-depth cooperation between Mojin Group and local sports international chambers of commerce and event organizers have been strengthened. Among them, the most critical one is the sponsorship of popular sports events. For example, on November 9, 2015, the strategic cooperation signing ceremony with \"Kunlun Jue\" was completed, and all-round and in-depth cooperation was carried out in South Korea's marketing, copyright cooperation, event operations, etc. . In this way, Mojin Group closely integrates its own brand with the high-profile \"Kunlun Finals\" event, which is like imprinting the brand deeply in the hearts of every event audience, making the brand more famous and popular in the local market. The influence increased rapidly. At the same time, in the international market, Longyao International N PLUS Capital Limited guides Mojin Group to actively participate in various international sports exhibitions and exchange activities. In these activities, Mojin Group carefully builds display areas, just like an artist displaying his most proud works, fully demonstrating the company's professional strength and a series of successful cases. These displays are like bright beacons, attracting the attention of more international event organizers and brands, and creating more opportunities for international cooperation. In addition, during the cooperation period, Longyao International N PLUS Capital Limited also helped Mojin Group optimize the communication mechanism with its partners, eliminate obstacles to information transmission, and improve cooperation efficiency, just like laying a flat highway for the advancement of cooperation projects. , so that the cooperation project can move forward smoothly.",
+        "results": "After this period of cooperation and promotion with Longyao International N PLUS Capital Limited, Mojin Group's visibility in the Korean market has increased significantly, shining like a bright new star in the field of sports event promotion, becoming an important force that cannot be ignored in this field. In the international market, Mojin Group has also successfully expanded new business areas and partners, and its brand influence has been significantly enhanced. The business scale has achieved rapid growth, and both the quantity and quality of event promotion have made a qualitative leap, laying a solid foundation for the company's long-term development and further consolidating its important position in the international sports brand promotion industry. We have taken solid steps towards the goal of becoming an industry leader."
+      },
+      "hashkey": {
+        "name": "HashKey Group",
+        "nameEn": "HashKey Group",
+        "country": "Hong Kong",
+        "industry": "FinTech",
+        "period": "2019~2020",
+        "description": "Established in 2018, HashKey Group shows great potential in blockchain and finance. It provides diverse investment opportunities and comprehensive solutions in digital assets and Web3 ecosystem for various investors, including retail investors, large corporations, family offices, funds, professional and qualified investors, covering core businesses such as blockchain asset management, digital currency trading, and venture capital. But before 2019, HashKey Group’s development in the Hong Kong market was not smooth sailing.",
+        "beforeStatus": "Before partnering with DGICC, HashKey Group struggled to stand out in Hong Kong's intensely competitive financial market. Despite its rich business offerings and advantages, investors had limited awareness of its potential in digital assets and Web3 ecosystem. Moreover, concerns about risk control and compliance in emerging financial services, especially blockchain-related businesses, posed significant obstacles to business expansion and investor attraction.",
+        "afterStatus": "From 2019 to 2020, Longyao International N PLUS Capital Limited cooperated with HashKey Group, bringing a new dawn to its development. Longyao International N PLUS Capital Limited conducted an in-depth and detailed analysis of HashKey Group’s business characteristics and Hong Kong’s financial market environment. First, an extensive survey of market trends and potential investor needs was conducted to lay the foundation for formulating a precise promotion strategy. After understanding that Hong Kong investors have a high degree of acceptance of emerging financial technology products, but also have strict requirements for risk control and compliance, Longyao International N PLUS Capital Limited made full efforts in online promotion. Use various channels such as Hong Kong’s local and international professional websites in the financial technology field, well-known financial media, and authoritative platforms in the blockchain industry to widely disseminate HashKey Group’s company philosophy, business scope, professional team background and other information. By publishing in-depth industry analysis articles and company development reports, it has attracted the attention of a large number of potential investors. At the same time, we actively organize online seminars and expert lectures, and invite senior experts from HashKey Group to share cutting-edge topics such as digital asset investment strategies and blockchain technology application prospects, interact with investors in real time, answer questions, and effectively improve the company's investment performance. professional image and industry authority in the minds of readers. In terms of offline promotion, Longyao International N PLUS Capital Limited assisted HashKey Group in organizing a number of high-end investor meetings, product roadshows and industry exchange activities in the core financial area of ​​Hong Kong. During these activities, HashKey Group’s management team and professionals conducted in-depth face-to-face communications with potential investors to introduce in detail the company’s risk management measures, compliance operation system, and unique advantages in the digital asset field. By displaying actual cases and successful experiences, investors' concerns about emerging financial businesses are eliminated and their trust in the company is enhanced. In addition, it also actively participated in Hong Kong's local financial technology exhibitions and international blockchain summits, and established extensive contacts and cooperation with other leading companies and institutions in the industry, further enhancing HashKey Group's visibility and popularity in Hong Kong and the international financial technology field. Influence.",
+        "results": "Under DGICC's professional promotion, HashKey Group achieved remarkable recognition in Hong Kong's market, attracting diverse investors including traditional financial institutions, emerging tech companies, and high-net-worth individuals. The company experienced explosive growth in business scale, achieving significant breakthroughs in digital asset trading volume and assets under management, establishing itself as a prominent name in Hong Kong's FinTech sector."
+      },
+      "grab": {
+        "name": "Grab",
+        "nameEn": "Grab Holdings Limited",
+        "country": "Singapore",
+        "industry": "Internet Technology",
+        "period": "2021~2022",
+        "description": "Founded in 2012, Grab is Southeast Asia's leading super-app platform. As a Singapore-based technology company, Grab provides millions of users with daily services through its mobile application, including ride-hailing, food delivery, logistics, digital payments, and other diverse services. The company operates across major Southeast Asian markets including Singapore, Malaysia, and Indonesia, dedicated to improving people's quality of life through technological innovation.",
+        "beforeStatus": "Before partnering with Long Yao International N PLUS Capital Limited, Grab faced challenges in both the local market of Singapore and the international market. In the local market of Singapore, although it has accumulated a certain number of users, it has encountered difficulties in expanding new users and increasing market share. Users do not have a deep understanding of Grab's various services, especially for newly expanded financial services and other businesses, and have unclear cognition. In the international market, especially in Southeast Asia, despite its extensive business coverage, it faces challenges from local competitors in various segments. In the field of travel, new taxi-hailing applications are constantly emerging, trying to carve up market share; in the field of food delivery, other food delivery platforms are also competing for users; in the field of financial services, traditional financial institutions and emerging financial technology companies are competing. Grab's brand image has shown an aging trend to a certain extent. It lacks new vitality and its business growth has slowed down. It urgently needs an effective promotion strategy to re-energize the company's development vitality.",
+        "afterStatus": "2021 - 2022 Longyao International N PLUS Capital Limited has launched a cooperation with Grab, injecting strong impetus into its development. Longyao International N PLUS Capital Limited has developed a comprehensive and detailed promotion strategy for Grab’s diverse businesses and extensive user groups. Considering that Grab’s services are targeted at users of different ages, classes and needs, Longyao International N PLUS Capital Limited will focus its promotion on highlighting the unique value of Grab’s services. For travel services, we emphasize its convenience, efficiency and wide vehicle coverage, which can meet user needs whether it is daily commuting or long-distance travel; for take-out services, we emphasize the rich menu selection, fast delivery speed and strict food requirements. Safety standards; in terms of financial services, it highlights safe, reliable, convenient and diversified financial products. In terms of online promotion, Longyao International N PLUS Capital Limited makes full use of the powerful communication power of social media platforms to customize personalized promotional content based on the characteristics of users on different platforms. Publish interesting and cool short videos on platforms popular with young people such as Instagram and TikTok to show Grab users convenient scenes and pleasant experiences when using services, attracting the attention of young users; on platforms with wider audiences such as Facebook and LinkedIn On the platform, in-depth articles are published to introduce Grab's business model, development history and social impact to establish the company's professional image. At the same time, it actively uses professional forums and communities in the travel, life services and financial technology categories to share Grab’s user cases, preferential activities and service upgrade information, and conduct in-depth interactions with potential users. In addition, we cooperate with well-known media and influential self-media in major technology and lifestyle fields, inviting them to conduct comprehensive reviews and recommendations on Grab’s services, endorse Grab’s brand from a professional perspective, and enhance the brand’s reputation in the market credibility and visibility. Offline, Longyao International N PLUS Capital Limited actively organizes Grab to participate in various internationally influential technology exhibitions, transportation industry summits, and large-scale events in the life service field. In these activities, Grab carefully designed the display area and showed visitors its advanced technology architecture through on-site demonstrations, interactive experiences, etc., such as how the intelligent dispatch system optimizes travel efficiency and how the precise takeout delivery algorithm ensures fast delivery. And how a safe and reliable financial payment system can ensure the safety of user funds. At the same time, professional customer service teams and business experts are arranged to conduct face-to-face communication and exchanges with potential customers and partners on-site to answer their questions about service content, fees, cooperation models, etc., and enhance mutual understanding and trust. Through these offline activities, Grab has not only consolidated cooperative relationships with existing partners, but also expanded new business cooperation opportunities, further enhancing its influence in the industry.",
+        "results": "Under the professional promotion and operation of Longyao International N PLUS Capital Limited, Grab has achieved remarkable results in this stage from 2021 to early 2022. In the Singapore local market, Grab's popularity and market share have further increased, with more and more residents choosing Grab as the preferred platform for daily travel and life services. In the international market, especially in Southeast Asia, Grab's brand influence has also been greatly expanded, and the number of new user registrations and business orders have continued to grow. Whether it is taxi hailing and car rental business in the field of transportation, market share in the field of food delivery, and user expansion in the field of financial services, Grab has shown strong development momentum and consolidated its leading position in the technology field in Singapore and even Southeast Asia. Become one of the technology unicorn companies that attract global attention."
+      },
+      "origami": {
+        "name": "Origami Inc.",
+        "nameEn": "Origami Inc.",
+        "country": "Japan",
+        "industry": "Mobile Payments",
+        "period": "2022~2024",
+        "description": "Japan’s Origami Private Equity, as a wholly-owned subsidiary of Japan’s Origami Asset Management Co., Ltd. established in China, has a strong parent company background. Its parent company has offices in major global financial centers such as Tokyo, London, New York, Hong Kong, and Shanghai, and has deep foundation and rich experience in financial investment services such as asset management and investment consulting. Origami Private Equity was established in July 2022 with a registered capital of 60 million yuan. It has strong funds and a professional investment team and aims to provide investors with high-quality investment services. However, it faced many difficulties when it first entered the Chinese market.",
+        "beforeStatus": "Origami Private Equity is in a tough spot. Due to a lack of understanding of the Chinese market and investor needs, its products failed to accurately meet market needs. It was like a traveler groping in the dark, unable to find the way forward. In China's special financial investment market environment, Origami's private equity brand awareness is extremely low, and investors know nothing about its investment philosophy, past performance, etc. This makes the company difficult to move forward in the fiercely competitive market. At the same time, the lack of effective promotion channels has resulted in the company being unable to convey its advantages to potential investors, making it difficult to expand its business scale, the scale of assets under management also stagnating, and its development prospects are confused.",
+        "afterStatus": "After working with Longyao International N PLUS Capital Limited from 2022 to 2024, the situation has fundamentally changed. Longyao International N PLUS Capital Limited fully considers the uniqueness of the Chinese market and the demand characteristics of investors, and carefully creates a detailed market research plan. Through extensive data collection and in-depth analysis, we can comprehensively understand Chinese investors' preferences for financial investment products, accurately assess their risk tolerance, and lay a solid foundation for subsequent product customization and promotion strategies. In the online promotion session, Longyao International N PLUS Capital Limited made full use of professional websites in the financial industry, authoritative financial media and other channels to widely publish key information such as Origami Private Equity's company profile, unique investment philosophy and past performance, just like in the dark It lit up the beacon, effectively attracting the attention of potential investors. Not only that, we actively hold online investment lectures and seminars, and invite investment experts from Origami Private Equity to interact with investors online, share their professional investment experience and deep insights into market trends, and comprehensively enhance the company's professional image in the minds of investors. and popularity. In terms of offline promotion, Longyao International N PLUS Capital Limited fully assists Origami Private Equity in organizing investor meetings and roadshows in Shanghai, Beijing and other important financial center cities in China. During these activities, company representatives conducted face-to-face and in-depth communication with potential investors, and patiently answered investors' questions about investment strategies, risk control, etc., effectively enhancing investors' trust in the company.",
+        "results": "Under the professional promotion and operation of Longyao International N PLUS Capital Limited, the visibility of Origami Private Equity in the Chinese market has been significantly improved, attracting the close attention of a large number of potential investors. The company's business scale has shown a good trend of continuous expansion, and the scale of assets under management It has also grown steadily, laying a solid foundation for its long-term development in the Chinese market."
+      }
+    },
+    "sections": {
+      "companyProfile": "Company Profile",
+      "beforeStatus": "Status Before Cooperation",
+      "afterStatus": "Changes After Cooperation",
+      "results": "Cooperation Results"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We Welcome Your Inquiries and Feedback",
+    "contactInfo": {
+      "title": "Contact Information",
+      "line": {
+        "label": "Line official account",
+        "value": "@593dnlat"
+      },
+      "email": {
+        "label": "Email",
+        "value": "longyaoguojishanghui@gmail.com"
+      }
+    },
+    "form": {
+      "title": "Online Inquiry",
+      "description": "Please fill out the form below, and we will respond to your inquiry within 1-2 business days",
+      "name": {
+        "label": "Your Name",
+        "placeholder": "Please enter your name"
+      },
+      "email": {
+        "label": "Email Address",
+        "placeholder": "Please enter your email address"
+      },
+      "topic": {
+        "label": "Inquiry Topic",
+        "placeholder": "Please select an inquiry topic",
+        "options": {
+          "membership": "Membership Application",
+          "cooperation": "Business Cooperation",
+          "charity": "Charitable Activities",
+          "other": "Other Inquiries"
+        }
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Please describe your inquiry in detail"
+      },
+      "submit": "Submit Inquiry",
+      "success": "Inquiry submitted successfully! We will contact you soon.",
+      "error": "Submission failed, please try again later."
+    },
+    "process": {
+      "title": "Processing Procedure",
+      "steps": [
+        {
+          "title": "Submit Inquiry",
+          "description": "Fill out the inquiry form with detailed information"
+        },
+        {
+          "title": "Confirmation",
+          "description": "Automatic confirmation email sent"
+        },
+        {
+          "title": "Professional Review",
+          "description": "Evaluation and processing by relevant departments"
+        },
+        {
+          "title": "Response",
+          "description": "Official reply within 1-2 business days"
+        }
+      ]
+    }
+  },
+  "presidentMessage": {
+    "pageTitle": "Dragon Glory International N PLUS Capital Limited - President's Message",
+    "presidentInfo": {
+      "organization": "Dragon Glory International N PLUS Capital Limited",
+      "title": "President Liu Zhihong",
+      "description": "Elected as the third President of Dragon Glory International N PLUS Capital Limited in 2023, with over 20 years of international business experience."
+    },
+    "messageTitle": "President's Message",
+    "messageDate": "December 18, 2023",
+    "greeting": "Dear Chamber Family Members,\nGreetings to all!",
+    "content": {
+      "intro": "At this momentous occasion, I stand before you with profound gratitude and enthusiasm as I assume the significant responsibility of serving as President of the Dragon Glory International N PLUS Capital Limited. First, allow me to express my sincere appreciation to every friend present here today. It is your trust and support that has given me the honor to serve you all.",
+      "history": "The Dragon Glory International N PLUS Capital Limited stands as a beacon on the international stage, carrying countless achievements and dreams. It is not merely a gathering place for business elites but a bridge connecting the world and a powerful engine driving international economic exchange and cooperation. Throughout our development, our Chamber has navigated the international business landscape with distinction, with our member enterprises actively participating in international trade and achieving remarkable results. Our footprint extends to every corner of the globe, injecting continuous vitality into regional economic prosperity and leaving an indelible mark on the canvas of international business.",
+      "charity": "However, the significance of Dragon Glory International N PLUS Capital Limited extends far beyond this. We have always maintained a heart of benevolence, actively engaging in charitable causes. Charity is the brilliant light in our Chamber's soul. We focus on those struggling in hardship, bringing hope to impoverished areas and providing support for vulnerable groups. Whether it's funding education to enable countless knowledge-seeking children to attend school, participating in medical aid to bring hope to those suffering from illness, or stepping forward in times of disaster to actively participate in rescue and reconstruction, we demonstrate our Chamber's social responsibility and commitment through action. These charitable endeavors, like stars in the night sky, illuminate countless dark corners and give our Chamber's name deeper warmth and meaning.",
+      "challenge": "Today's world is in a period of profound transformation in economic globalization and complex international situations. The business environment is like a turbulent sea, where opportunities and challenges coexist. However, we at Dragon Glory International N PLUS Capital Limited are confident and capable of continuing to lead through these changing times. We must forge ahead on the path of business development, further enhancing the competitiveness of our Chamber and member enterprises through expanding international business, optimizing resource allocation, and strengthening technological innovation cooperation. We will utilize our advantages to build more diverse international business platforms, facilitating smooth international trade and investment flows, helping member enterprises thrive in the global market.",
+      "future": "Simultaneously, we must remain unwavering in our charitable endeavors. We will expand our charitable coverage, addressing more global issues such as environmental protection and refugee assistance. By integrating Chamber resources and partnering with more international charitable organizations, we can create a greater force for good. I believe that each of our small acts of kindness can potentially combine to become a tremendous force for changing the world. We want the Dragon Glory International N PLUS Capital Limited's charitable reputation to nurture every soul in need, like spring rain, becoming a banner in the field of international charity.",
+      "commitment": "As President, I will fulfill my duties with complete dedication. I will handle Chamber affairs impartially, protect every member's rights, and promote unity and cooperation among members. I will carefully listen to everyone's opinions and suggestions, actively help member enterprises solve problems, and support their development. In international exchange and cooperation, I will actively showcase the excellence of Dragon Glory International N PLUS Capital Limited, securing more development resources and opportunities for the Chamber. I will also tirelessly promote the development of charitable causes, leading by example and encouraging everyone to actively participate in charitable activities, making charity a core value of our Chamber's culture.",
+      "collaboration": "I deeply understand that the Chamber's development depends on every member's efforts. I hope everyone will view the Chamber as their support and belonging, actively participating in its construction and development. Whether in business activities or charitable causes, we need to work together. Let us inherit and carry forward the fine traditions of Dragon Glory International N PLUS Capital Limited, advancing together in business development and charitable endeavors with fearless courage and firm belief."
+    },
+    "closing": {
+      "thanks": "Finally, I thank you all again for your trust. Let us move forward together, allowing Dragon Glory International N PLUS Capital Limited to shine even brighter on the stage of international business and charity!",
+      "farewell": "Thank you all!",
+      "signature": {
+        "name": "Liu Zhihong",
+        "title": "President, Dragon Glory International N PLUS Capital Limited",
+        "date": "December 2023"
+      }
+    }
+  },
+  "organization": {
+    "title": "Organization Structure",
+    "subTitle": "Organization Structure",
+    "positions": {
+      "president": "President",
+      "vicePresident": "Vice President",
+      "executiveDeputyDirector": "Executive Deputy Director",
+      "executiveDirector": "Executive Director",
+      "fundManager": "Fund Manager and Consultant",
+      "marketResearchDirector": "Director of Market Research",
+      "operationsDirector": "Director of Operations",
+      "chiefConsultant": "Chief Consulting Director",
+      "financialMember": "Financial Committee Member"
+    }
+  }
+}
