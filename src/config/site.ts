@@ -13,6 +13,14 @@ export const siteConfig = {
     {
       code: "zh-hant",
       name: "繁體中文",
+    },
+    {
+      code: "ja",
+      name: "日本語",
+    },
+    {
+      code: "ko",
+      name: "한국어",
     }
   ],
   defaultLang: "zh",

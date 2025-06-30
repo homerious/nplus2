@@ -16,12 +16,12 @@ export function Header({ dict, lang }: HeaderProps) {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
 
   const navigation = [
-    { name: dict.nav.home, href: `/${lang}` },
-    { name: dict.nav.about, href: `/${lang}/about` },
-    { name: dict.nav.charity, href: `/${lang}/charity` },
-    { name: dict.nav.cooperation, href: `/${lang}/cooperation` },
-    { name: dict.nav.contact, href: `/${lang}/contact` },
-    { name: dict.nav.exchanges, href: `https://your-domain.com` },
+    { name: dict.nav.home || "Home", href: `/${lang}` },
+    { name: dict.nav.about || "About", href: `/${lang}/about` },
+    { name: dict.nav.cases || "Cases", href: `/${lang}/cases` },
+    { name: dict.nav.charity || "Charity", href: `/${lang}/charity` },
+    { name: dict.nav.join || "Join Us", href: `/${lang}/join` },
+    { name: dict.nav.contact || "Contact", href: `/${lang}/contact` },
   ]
 
   return (
@@ -43,6 +43,7 @@ export function Header({ dict, lang }: HeaderProps) {
           <button
               className="md:hidden ml-auto"
               onClick={() => setIsMenuOpen(!isMenuOpen)}
+              aria-label="Toggle menu"
           >
             <svg
                 className="h-6 w-6"
@@ -90,21 +91,21 @@ export function Header({ dict, lang }: HeaderProps) {
 
           {/* 移动端菜单 */}
           {isMenuOpen && (
-              <div className="absolute top-16 left-0 right-0 bg-white border-b md:hidden">
+              <div className="absolute top-16 left-0 right-0 bg-white border-b md:hidden shadow-lg">
                 <nav className="flex flex-col py-4">
                   {navigation.map((item) => (
                       <Link
                           key={item.href}
                           href={item.href}
                           className={`px-4 py-2 transition-colors hover:bg-gray-100 ${
-                              pathname === item.href ? "text-foreground" : "text-foreground/60"
+                              pathname === item.href ? "text-foreground font-medium" : "text-foreground/60"
                           }`}
                           onClick={() => setIsMenuOpen(false)}
                       >
                         {item.name}
                       </Link>
                   ))}
-                  <div className="px-4 py-2">
+                  <div className="px-4 py-2 border-t mt-2 pt-4">
                     <LanguageSwitcher lang={lang} />
                   </div>
                 </nav>

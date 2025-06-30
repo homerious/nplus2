@@ -20,7 +20,7 @@ export default async function ContactPage({ params }: ContactPageProps) {
         <div className="flex  flex-col">
           <div className="min-h-screen bg-gray-50">
             {/* 顶部横幅 */}
-            <div className="relative h-[40vh] w-full">
+            <div className="relative h-[60vh] w-full">
               <Image
                   src="/images/contact/banner.jpg"
                   alt={messages.title}
@@ -28,7 +28,7 @@ export default async function ContactPage({ params }: ContactPageProps) {
                   className="object-cover"
                   priority
               />
-              <div className="absolute inset-0 bg-gradient-to-r from-blue-600/80 to-purple-600/80"/>
+              <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/50 to-black/30"></div>
               <div className="absolute inset-0 flex flex-col items-center justify-center text-white">
                 <h1 className="mb-4 text-5xl font-bold">{messages.title}</h1>
                 <p className="text-xl">{messages.subtitle}</p>
@@ -46,7 +46,7 @@ export default async function ContactPage({ params }: ContactPageProps) {
                       {messages.contactInfo.title}
                     </h2>
                     <div className="space-y-4">
-                      <div className="flex items-center space-x-4">
+                      <div className="flex items-center space-x-4 hidden">
                         <div className="rounded-full bg-blue-100 p-3">
                           <Image
                               src="/images/contact/line-icon.svg"
