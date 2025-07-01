@@ -1,7 +1,7 @@
 {
   "site": {
-    "name": "Global Business Philanthropy Association",
-    "description": "Official Website of Global Business Philanthropy Association"
+    "name": "Global Business & Philanthropy Association",
+    "description": "Official Website of Global Business & Philanthropy Association"
   },
   "nav": {
     "home": "Home",
@@ -15,7 +15,7 @@
     "hero": {
       "slogan": "Business for Philanthropy, Philanthropy for Business",
       "subtitle": "Harnessing Business Power for Social Value",
-      "name": "Global Business Philanthropy Association"
+      "name": "Global Business & Philanthropy Association"
     },
     "buttons": {
       "joinNow": "Join Now",
@@ -104,7 +104,7 @@
     "news": {
       "title": "Latest Updates",
       "eventTitle": "Preview of 2025 Asia Business Philanthropy Summit",
-      "eventDescription": "The Global Business Philanthropy Association is about to hold the 2025 Asia Business Philanthropy Summit, an annual event bringing together Asia's top entrepreneurs, investment institutions, and philanthropy leaders. The summit will be themed 'Business for Good, Co-creating the Future,' focusing on three core topics: cross-border industrial cooperation, philanthropic innovation models, and youth green development.",
+      "eventDescription": "The Global Business & Philanthropy Association is about to hold the 2025 Asia Business Philanthropy Summit, an annual event bringing together Asia's top entrepreneurs, investment institutions, and philanthropy leaders. The summit will be themed 'Business for Good, Co-creating the Future,' focusing on three core topics: cross-border industrial cooperation, philanthropic innovation models, and youth green development.",
       "eventDate": "2025",
       "eventLocation": "Multiple Cities in Asia",
       "eventParticipants": "1000+ Attendees",
@@ -123,7 +123,7 @@
     "subtitle": "Understanding the Mission and Vision of GBPA",
     "introduction": {
       "title": "Association Overview",
-      "description": "The Global Business Philanthropy Association (GBPA) is an international non-profit organization headquartered in Kuala Lumpur, Malaysia. Founded in 2010, it upholds the philosophy of 'Business for Philanthropy, Philanthropy for Business' to promote cross-border integration of business resources and public welfare causes.",
+      "description": "The Global Business & Philanthropy Association (GBPA) is an international non-profit organization headquartered in Kuala Lumpur, Malaysia. Founded in 2010, it upholds the philosophy of 'Business for Philanthropy, Philanthropy for Business' to promote cross-border integration of business resources and public welfare causes.",
       "positioning": {
         "title": "Organization Positioning and Core Philosophy",
         "positionLabel": "Chamber Positioning",
@@ -632,7 +632,7 @@
   "joinUs": {
     "title": "Join Us",
     "subtitle": "Join Hands to Build a Business for Good Ecosystem",
-    "description": "The Global Business Philanthropy Association (GBPA) cordially invites like-minded enterprises, organizations, and individuals to join our global network, jointly promoting the deep integration of business and philanthropy to create sustainable social value.",
+    "description": "The Global Business & Philanthropy Association (GBPA) cordially invites like-minded enterprises, organizations, and individuals to join our global network, jointly promoting the deep integration of business and philanthropy to create sustainable social value.",
     "stats": {
       "members": "30,000+ Corporate Members",
       "countries": "Covering 12 Countries",
@@ -724,7 +724,7 @@
     }
   },
   "footer": {
-    "copyright": "© 2025 Global Business Philanthropy Association. All rights reserved."
+    "copyright": "© 2025 Global Business & Philanthropy Association. All rights reserved."
   },
   "common": {
     "readMore": "Learn More",

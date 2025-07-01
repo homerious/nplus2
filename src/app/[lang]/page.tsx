@@ -2,6 +2,7 @@ import { getDictionary } from "@/lib/dictionary"
 import { NewsSection } from "@/components/news-section"
 import { CaseCarousel } from "@/components/case-carousel"
 import Link from "next/link"
+import Image from "next/image"
 
 export default async function Home({
                                      params,
@@ -26,6 +27,14 @@ export default async function Home({
           <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/50 to-black/30"></div>
 
           <div className="relative z-10 text-center px-4 max-w-4xl mx-auto">
+            <Image
+                width={100}
+                height={100}
+                className="w-32 h-32 rounded-full mx-auto mb-6 drop-shadow-lg"
+                src="/images/logo.jpg"
+            >
+
+            </Image>
             <h1 className="text-4xl md:text-4xl font-bold text-white mb-6 leading-loose drop-shadow-lg">
               {dict.home.hero.name}
             </h1>

@@ -32,7 +32,7 @@ export function Header({ dict, lang }: HeaderProps) {
               <Image
                   width={60}
                   height={60}
-                  src="/images/logo.png"
+                  src="/images/logo.jpg"
                   alt="Logo"
                   className="rounded-full"
               />
