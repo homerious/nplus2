@@ -64,10 +64,10 @@ export function NewsSection({ dict, lang }: NewsSectionProps) {
                 </div>
 
                 <div className="flex justify-center sm:flex-row gap-3 mt-6">
-                  <button className="inline-flex items-center justify-center rounded-md bg-blue-600 px-6 py-3 text-sm font-medium text-white transition-all hover:bg-blue-700 shadow-md hover:shadow-lg">
+                  <button className="inline-flex items-center justify-center rounded-md bg-blue-600 px-6 py-3 text-sm font-medium text-white transition-all hover:bg-blue-700 shadow-md hover:shadow-lg" onClick={() => location.href = './contact'}>
                     {dict.home.news.registerButton || "立即报名"}
                   </button>
-                  <button className="inline-flex items-center justify-center rounded-md border border-blue-600 bg-white px-6 py-3 text-sm font-medium text-blue-600 transition-all hover:bg-blue-50 shadow-md hover:shadow-lg">
+                  <button className="hidden inline-flex items-center justify-center rounded-md border border-blue-600 bg-white px-6 py-3 text-sm font-medium text-blue-600 transition-all hover:bg-blue-50 shadow-md hover:shadow-lg">
                     {dict.home.news.learnMoreButton || "了解更多"}
                   </button>
                 </div>
